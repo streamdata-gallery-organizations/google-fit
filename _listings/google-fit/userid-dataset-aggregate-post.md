@@ -35,7 +35,7 @@ paths:
         200:
           description: OK
       tags:
-      - aggregate data
+      - aggregation
 definitions:
   AggregateBucket:
     properties:
