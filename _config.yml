@@ -1,9 +1,9 @@
-title: Streamdata Gallery
-url: google-fit.api.streamdata.gallery
+title: Streamdata Gallery Google Fit
+url: google-fit.streamdata.gallery
 tag: Google Fit
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
-github_user: streamdata-gallery-organizations
+github_user: streamdata-gallery
 github_repo: google-fit
 github_branch: master
 collections:
