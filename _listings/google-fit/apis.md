@@ -8,10 +8,10 @@ description: Google Fit is an open ecosystem that allows developers to upload fi
   when they upgrade their fitness devices.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-fit.jpg
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Fit
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-fit/master/_listings/google-fit/apis.md
 specificationVersion: "0.14"
 apis:

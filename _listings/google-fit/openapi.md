@@ -4,7 +4,7 @@ x-collection-name: Google Fit
 x-complete: 1
 info:
   title: Fitness
-  description: stores-and-accesses-user-data-in-the-fitness-store-from-apps-on-any-platform
+  description: stores-and-accesses-user-data-in-the-fitness-store-from-apps-on-any-platform-
   contact:
     name: Google
     url: https://google.com
